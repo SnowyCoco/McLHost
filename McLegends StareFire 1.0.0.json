@@ -1,0 +1,22 @@
+{
+    "id": "McLegends StareFire 1.0.0",
+    "files": [],
+    "dependencies": {
+        "minecraft": "1.20.1",
+        "forge": "47.3.39"
+    },
+    "name": "McLegends StareFire",
+    "summary": "1.0.0",
+    "optionalFeatures": [
+        {
+            "name": "High Quality",
+            "description": "",
+            "recommendation": "recommended",
+            "selectedByDefault": true,
+            "include": [],
+            "remote": []
+        }
+    ],
+    "versionId": "McLegends StareFire 1.0.0",
+    "overridesFiles": []
+}

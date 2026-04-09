@@ -1,0 +1,11 @@
+{
+    "packages": [
+        {
+            "name": "McLegends StareFire 1.0.0",
+            "title": "McLegends StareFire",
+            "versionId": "McLegends StareFire 1.0.0",
+            "priority": 0,
+            "location": "McLegends StareFire 1.0.0.json"
+        }
+    ]
+}

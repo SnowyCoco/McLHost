@@ -1,0 +1,89 @@
+{
+    "id": "McLegends StareFire",
+    "files": [
+        {
+            "title": "Embeddium",
+            "description": "A powerful, mod-friendly, FOSS client performance mod for NeoForge",
+            "url": "https://modrinth.com/mod/embeddium",
+            "icon_url": "https://cdn.modrinth.com/data/sk9rgfiA/55f9c50284f8abbbe2a485abfd6a16209201e451_96.webp",
+            "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
+            "downloads": [
+                "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+            ],
+            "hashes": {
+                "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+                "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+            },
+            "fileSize": 1320675,
+            "env": {},
+            "dependencies": [
+                {
+                    "name": "TexTrue's Embeddium Options",
+                    "type": "incompatible",
+                    "slug": "textrues-embeddium-options",
+                    "project_id": "S1tndFDa",
+                    "url": "https://modrinth.com/mod/textrues-embeddium-options"
+                },
+                {
+                    "name": "Rubidium",
+                    "type": "incompatible",
+                    "slug": "rubidium",
+                    "project_id": "4ZqxOvjD",
+                    "url": "https://modrinth.com/mod/rubidium"
+                }
+            ],
+            "project_id": "sk9rgfiA",
+            "version_number": "0.3.31+mc1.20.1"
+        },
+        {
+            "title": "Oculus",
+            "description": "Unofficial Fork of \"Iris\", made to work with FML",
+            "url": "https://modrinth.com/mod/oculus",
+            "icon_url": "https://cdn.modrinth.com/data/GchcoXML/09ef853cdfd3d467dead4faef37102535a2185d5_96.webp",
+            "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+            "downloads": [
+                "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar"
+            ],
+            "hashes": {
+                "sha512": "1bb4ac77400d6684347988ed298a692c2cb15cf7923693607eb8739b171a20fef7412259e9e157111d9ce21779badab386029956f7d2283a9e611722a373e9d5",
+                "sha1": "984f774e71790deaec674c7587bd24e0711871b2"
+            },
+            "fileSize": 2851119,
+            "env": {},
+            "dependencies": [
+                {
+                    "name": "Embeddium",
+                    "type": "required",
+                    "slug": "embeddium",
+                    "project_id": "sk9rgfiA",
+                    "url": "https://modrinth.com/mod/embeddium"
+                }
+            ],
+            "project_id": "GchcoXML",
+            "version_number": "1.20.1-1.8.0"
+        }
+    ],
+    "dependencies": {
+        "minecraft": "1.20.1",
+        "forge": "47.4.5"
+    },
+    "name": "McLegends StareFire",
+    "summary": "McLegends StareFire , a pack you made but i configured (lmao)",
+    "optionalFeatures": [
+        {
+            "name": "Complementary Shaders - Reimagined",
+            "description": "Preserving the elements of Minecraft with exceptional quality, detail, and performance.",
+            "recommendation": "recommended",
+            "selectedByDefault": true,
+            "include": [],
+            "remote": [
+                {
+                    "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/836bPNGo/ComplementaryReimagined_r5.7.1.zip",
+                    "target": "shaderpacks/ComplementaryReimaginedr571.zip"
+                }
+            ]
+        }
+    ],
+    "versionId": "McLegends StareFire20260421113516",
+    "overridesFiles": []
+}
